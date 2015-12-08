@@ -1,0 +1,30 @@
+<spreadtrackerDetails>
+  <spreadtracker>
+    <ID>1</ID>
+    <Order_Type>Bidding</Order_Type>
+    <Strategy_Type>2_LEG</Strategy_Type>
+    <Calc_Type>ProdDiff</Calc_Type>
+    <Exchange1>NFO</Exchange1>
+    <Order_Type1>Normal</Order_Type1>
+    <Inst_Type1>FUTIDX</Inst_Type1>
+    <Symbol1>NIFTY</Symbol1>
+    <Expiry1>11-26-2015</Expiry1>
+    <Lot_Size1>75</Lot_Size1>
+    <Option_Type1>
+    </Option_Type1>
+    <Strike_Price1>
+    </Strike_Price1>
+    <Ratio1>1</Ratio1>
+    <Buy_Sell>Sell</Buy_Sell>
+    <Exchange2>NFO</Exchange2>
+    <Order_Type2>Normal</Order_Type2>
+    <Inst_Type2>OPTIDX</Inst_Type2>
+    <Symbol2>NIFTY</Symbol2>
+    <Expiry2>11-26-2015</Expiry2>
+    <Lot_Size2>75</Lot_Size2>
+    <Option_Type2>CE</Option_Type2>
+    <Strike_Price2>8600</Strike_Price2>
+    <Ratio2>1</Ratio2>
+    <Buy_Sel2>Sell</Buy_Sel2>
+  </spreadtracker>
+</spreadtrackerDetails>

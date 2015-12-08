@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <frmwatch>
+    <InstrumentName>FUTIDX</InstrumentName>
+    <Description>NIFTY15NOVFUT</Description>
+    <UniqueIdentifier>57066</UniqueIdentifier>
+    <Symbol>NIFTY</Symbol>
+    <ExpiryDate>1133015400</ExpiryDate>
+    <OptionType>XX</OptionType>
+    <StrikePrice>-1</StrikePrice>
+    <BidQ>0</BidQ>
+    <Bid>8047.15</Bid>
+    <AskQ>0</AskQ>
+    <Ask>8048.75</Ask>
+    <LTP>8047.25</LTP>
+    <LTQ>0</LTQ>
+    <LTT>05/11/2015 11:53:21 AM</LTT>
+    <Open>0</Open>
+    <High>0</High>
+    <Low>0</Low>
+    <Close>0</Close>
+    <Volume>0</Volume>
+    <OI>0</OI>
+    <ATP>0</ATP>
+    <TBQ>0</TBQ>
+    <TSQ>0</TSQ>
+    <TotalTrades>0</TotalTrades>
+    <TotalQtyTraded>0</TotalQtyTraded>
+    <TotalTradedValue>0</TotalTradedValue>
+    <HighestPriceEver>0</HighestPriceEver>
+    <LowestPriceever>0</LowestPriceever>
+    <DecimalLocator>100</DecimalLocator>
+    <Exchange>NFO</Exchange>
+    <Lotsize>75</Lotsize>
+  </frmwatch>
+</DocumentElement>
