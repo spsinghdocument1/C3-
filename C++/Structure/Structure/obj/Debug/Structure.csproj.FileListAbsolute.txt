@@ -1,0 +1,14 @@
+E:\share e\NKB\DllLibrary\Structure\Structure\bin\Debug\Structure.dll
+E:\share e\NKB\DllLibrary\Structure\Structure\bin\Debug\Structure.pdb
+E:\share e\NKB\DllLibrary\Structure\Structure\obj\Debug\Structure.dll
+E:\share e\NKB\DllLibrary\Structure\Structure\obj\Debug\Structure.pdb
+E:\SAN_SOFT\Testing_For_\DllLibrary\Structure\Structure\bin\Debug\Structure.dll
+E:\SAN_SOFT\Testing_For_\DllLibrary\Structure\Structure\bin\Debug\Structure.pdb
+E:\SAN_SOFT\Testing_For_\DllLibrary\Structure\Structure\obj\Debug\Structure.csprojResolveAssemblyReference.cache
+E:\SAN_SOFT\Testing_For_\DllLibrary\Structure\Structure\obj\Debug\Structure.dll
+E:\SAN_SOFT\Testing_For_\DllLibrary\Structure\Structure\obj\Debug\Structure.pdb
+E:\Sujit\Nkb_New_client_for_pf\Structure\Structure\bin\Debug\Structure.dll
+E:\Sujit\Nkb_New_client_for_pf\Structure\Structure\bin\Debug\Structure.pdb
+E:\Sujit\Nkb_New_client_for_pf\Structure\Structure\obj\Debug\Structure.csprojResolveAssemblyReference.cache
+E:\Sujit\Nkb_New_client_for_pf\Structure\Structure\obj\Debug\Structure.dll
+E:\Sujit\Nkb_New_client_for_pf\Structure\Structure\obj\Debug\Structure.pdb
